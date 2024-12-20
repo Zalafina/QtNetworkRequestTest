@@ -1,0 +1,16 @@
+# Qt generate file types
+
+.vscode/
+NetworkRequestTest/.vscode/
+NetworkRequestTest/*.pro.user
+NetworkRequestTest/*.pro.user
+NetworkRequestTest/*.pro.user.*
+NetworkRequestTest/*.moc
+NetworkRequestTest/*.bin
+NetworkRequestTest/moc_*.cpp
+NetworkRequestTest/qrc_*.cpp
+NetworkRequestTest/ui_*.h
+NetworkRequestTest/Makefile*
+NetworkRequestTest/*-build-*
+NetworkRequestTest/build/
+NetworkRequestTest/out/
